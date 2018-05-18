@@ -1,0 +1,67 @@
+body{
+  background-color: #E8E8E8
+}
+u {
+  color: pink;
+
+}
+/* verificar */
+input{
+  border: none;
+  padding: 10px;
+  font-size: 50px;
+  margin-right:30px;
+  height: 200px;
+  width: 500px;
+  background: pink;
+  border: 10px groove lightpink;
+  font-family: fantasy;
+
+}
+h1{
+	color:darkblue;
+	font-family: helvetica;
+	font-size: 5em;
+  text-align: center;
+
+}
+/* verificar */
+#cajaBoton{
+  display: flex;
+  justify-content:center;
+  margin-top:200px;
+}
+.respuestas{
+  display: inline-block;
+}
+#cajaRespuestas {
+  display: none;
+}
+.caja{
+  display: inline-block;
+  width: 30%;
+  height: 210px;
+	color:darkblue;
+	padding: 10px;
+	border-color: gray;
+	font-size: 1.5em;
+  text-align: center;
+  border-radius: 10px;
+}
+#qu1 {
+  background-color: #B298DC;
+}
+#qu2 {
+  background-color: #B8D0EB;
+}
+#qu3 {
+  background-color: #B9FAF8;
+}
+#respBien {
+	color: #6F2DBD;
+	padding: 30px;
+	border: 1px dashed pink;
+	font-size: 3em;
+  margin:15px;
+  text-align: center;
+}
